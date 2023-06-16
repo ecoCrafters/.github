@@ -1,4 +1,4 @@
-# <img align="left" src="https://github.com/ecoCrafters/.github/blob/assets/option_2.png" width="64" height="64"></img>
+# <img align="left" src="https://raw.githubusercontent.com/ecoCrafters/.github/main/assets/option_2.png" width="64" height="64"></img>
 
 <h1 align="left">EcoCrafters</h1>
 
@@ -6,7 +6,7 @@
 
 [Download]() for Android.
 
-![](https://github.com/ecoCrafters/.github/blob/assets/EcoCrafters_feature.png)
+![](https://raw.githubusercontent.com/ecoCrafters/.github/main/assets/EcoCrafters_feature.png)
 
 ## Why
 
